@@ -1,4 +1,4 @@
-# ResumeDemoWebAppPersonalProjectTemplateDennisC
+# ResumeDemoWebAppPersonalProjectTemplateDennisGC
 
 A Repository for a personal project template
 
