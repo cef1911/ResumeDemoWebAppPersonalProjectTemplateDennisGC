@@ -12,7 +12,6 @@ from PIL import Image
 
 #https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:423f9546-22c7-4abf-a3fd-fc49cae5872d
 
-#https://acrobat.adobe.com/id/urn:aaid:sc:US:f6753253-82dc-4bb6-9dda-745896a2ab49?x_api_client_id=edge_extension_viewer&x_api_client_location=share&locale=en-US&theme=light&page_theme=light&viewer%21megaVerb=group-discover
 
 https://acrobat.adobe.com/id/urn:aaid:sc:US:f6753253-82dc-4bb6-9dda-745896a2ab49
 
@@ -23,6 +22,7 @@ See the website for more info https://streamlit.io/
 
 Click the link to view Dennis Gresham-Chappelle Resume 
 
+https://acrobat.adobe.com/id/urn:aaid:sc:US:f6753253-82dc-4bb6-9dda-745896a2ab49
 
 """
 
